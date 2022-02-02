@@ -19,6 +19,4 @@ Java aplication for drawing shapes with the implementation of design patterns. T
 
 You can also select multiple object, modify specific object and delete them.
 Each command is recorded in the log. It is possible to save a log or an entire drawing.
-There is a possibility to load command by command from the saved log (for that is used button Load Next)
-
-![Image of Yaktocat](https://i.imgur.com/R8Bmq6s.png)
+There is a possibility to load command by command from the saved log.
